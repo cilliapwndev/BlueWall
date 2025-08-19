@@ -1,8 +1,10 @@
 # 🔐 BlueWall – Firewall Auditor
 
-[![Gem Version](https://badge.fury.io/rb/bluewall.png)](https://badge.fury.io/rb/bluewall)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.png)](https://www.gnu.org/licenses/gpl-3.0)
-[![Ruby](https://img.shields.io/badge/ruby-≥2.7-red.png)](https://www.ruby-lang.org)
+[![Gem Version](https://badge.fury.io/rb/bluewall.svg?icon=si%3Arubygems)](https://badge.fury.io/rb/bluewall)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Downloads](https://img.shields.io/gem/dt/bluewall.svg)](https://rubygems.org/gems/bluewall)
+[![Ruby](https://img.shields.io/badge/ruby-≥2.7-red.svg)](https://www.ruby-lang.org)
+[![Made with Ruby](https://img.shields.io/badge/Made%20with-Ruby-red.svg)](https://www.ruby-lang.org)
 
 BlueWall is a firewall auditing tool for **pfSense** and **OPNsense** configurations.
 It parses XML exports, identifies strengths and weaknesses, simulates attack scenarios, and provides compliance scoring against frameworks like **NIST CSF, CIS Controls, ISO 27001, PCI DSS, SOC 2, and COBIT 2019**.
