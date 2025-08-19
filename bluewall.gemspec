@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "bluewall"
-  spec.version       = "1.0.0"
+  spec.version       = "1.0.1"
   spec.authors       = ["Mark Angelo P. Santonil"]
   spec.email         = ["cillia@gmail.com"] 
   spec.summary       = "A powerful firewall configuration auditor for pfSense and OpenSense."
