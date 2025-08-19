@@ -1,6 +1,6 @@
 # 🔐 BlueWall – Firewall Auditor
 
-[![Gem Version](https://badge.fury.io/rb/bluewall.svg)](https://badge.fury.io/rb/bluewall)
+
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Ruby](https://img.shields.io/badge/ruby-≥2.7-red.svg)](https://www.ruby-lang.org)
 
