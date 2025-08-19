@@ -106,4 +106,3 @@ BlueWall maps findings against:
 This project is licensed under the **GNU GPL v3.0** – see [LICENSE](LICENSE) for details.
 
 ---
-
