@@ -748,7 +748,7 @@ end
 
 # --- Main Execution ---
 if ARGV.empty?
-  puts "Usage: ruby bluewall.rb <config.xml>"
+  puts "Usage: ruby bluewall <config.xml>"
   exit(1)
 end
 
